@@ -1,0 +1,14 @@
+{
+  "name": "svg2laser",
+  "version": "0.1.0",
+  "description": "Convert SVG Paths to C++ coordinates for the LaserGameSystem",
+  "main": "svg2laser",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Alan Thiessen",
+  "license": "MIT",
+  "dependencies": {
+    "sax": "^1.2.4"
+  }
+}
